@@ -23,7 +23,7 @@ a {
   text-transform: uppercase;
   color: #2e2f42;
 }
-.header-logo .logo-part {
+.logo-part {
   color: #4d5ae5;
 }
 
@@ -174,4 +174,26 @@ a {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+}
+/* --------------------FOOTER----------------------- */
+.footer {
+  background-color: #2e2f42;
+}
+.logo {
+}
+.footer-logo {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.16667;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #f4f4fd;
+}
+
+.footer-text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #f4f4fd;
 }
