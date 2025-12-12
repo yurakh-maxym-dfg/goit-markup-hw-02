@@ -1,5 +1,5 @@
 body {
-  font-family: "Roboto", sans-serif;
+  font-family: 'Roboto', sans-serif;
   color: #434455;
   background: #fff;
 }
@@ -15,7 +15,7 @@ a {
 
 /* --------------------HEADER----------------------- */
 .header-logo {
-  font-family: "Raleway", sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-weight: 700;
   font-size: 18px;
   line-height: 1.17;
@@ -88,6 +88,7 @@ a {
 .hero-btn:hover,
 .hero-btn:focus {
   background-color: #404bbf;
+  cursor: pointer;
 }
 /* --------------------FEATURES----------------------- */
 .features-title {
@@ -143,5 +144,34 @@ a {
   line-height: 1.5;
   letter-spacing: 0.02em;
   text-align: center;
+  color: #434455;
+}
+/* --------------------PORTFOLIO----------------------- */
+.portfolio {
+}
+.portfolio-title {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11111;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+}
+.portfolio-item {
+}
+.portfolio-img {
+}
+.portfolio-list .portfolio-subtitle {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.portfolio-text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
   color: #434455;
 }
